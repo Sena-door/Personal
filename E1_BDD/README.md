@@ -323,7 +323,10 @@ respuesta: "Para ir directo al grano: Sí, una Llave Foránea (Foreign Key) pued
 
 Por qué es buena: Cumple a la perfección con la normalización (BCNF) porque eliminas por completo los valores nulos (NULL). Cada tabla tiene solo la información que le corresponde."
 
-- Sitios que me ayudaron con algunos comandos: 
+- Sitios que me ayudaron con algunos comandos:
+
 -https://neon.com/postgresql/tutorial/cte
+
 -https://www.w3schools.com/sql/func_mysql_extract.asp
+
 -https://www.postgresql.org/docs/current/functions-conditional.html#FUNCTIONS-COALESCE-NVL-IFNULL
